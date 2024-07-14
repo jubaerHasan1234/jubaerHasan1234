@@ -18,7 +18,7 @@
 
 ### 🤹‍♀️SKILLS: REACT / JS / HTML / CSS
 
-<h3 align="center" background='red'>A passionate frontend developer from India</h3>
+<h3 align="center" color='red'>A passionate frontend developer from India</h3>
 
 <h3 align="center">Connect with me:</h3>
 
