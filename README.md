@@ -5,7 +5,7 @@
 
 <img src="https://media.licdn.com/dms/image/D5616AQHsGO-9uLrXTQ/profile-displaybackgroundimage-shrink_350_1400/0/1720281721709?e=1726704000&v=beta&t=w1mu3kAGtdD8a2D6v0nta_GAyPGdXjVCkGdSYTOdtz4" width="100%" height="100%" />
 
-<div>
+<div align="center">
   <h1>About Me</h1> 
   
   I am a junior web front-end JavaScript designer And I can quickly adopt any new technology. Although my studies are in business I like programming a lot.
