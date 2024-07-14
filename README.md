@@ -1,9 +1,9 @@
 
    .skill {
-       display: flex;
-          justify-content: center;
-          align-items: center;
-          color: white;
+display: flex;
+justify-content: center;
+align-items: center;
+color: white;
     }
 
 <h1> Hello web developer community <img src="https://raw.githubusercontent.com/learnwithsumit/learnwithsumit/main/assets/hello.gif" alt="Trulli" width="30" height="30"></h1>
