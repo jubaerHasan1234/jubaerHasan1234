@@ -1,5 +1,5 @@
 
-   .skill{
+   .skill {
        display: flex;
           justify-content: center;
           align-items: center;
