@@ -5,13 +5,12 @@
 
 #### I am a front-end web developer.
 
+# About me
+I am a junior web front-end JavaScript designer And I can quickly adopt any new technology. Although my studies are in business, I like programming a lot.
 
-I am a junior web front-end JavaScript designer And I can quickly adopt any new technology. 
+### 🤹‍♀️SKILLS REACT / JS / HTML / CSS
 
-### 🤹‍♀️SKILLS
-VUE JS / REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 
 
 
