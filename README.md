@@ -7,7 +7,7 @@
 <div>
 
 <div>
-  <h1>About me </h1> 
+  # About me
   I am a junior web front-end JavaScript designer And I can quickly adopt any new technology. Although my studies are in business I like programming a lot.
 
 👍 -- I like error-solving and responsive front-end web development. <br/>
